@@ -1,0 +1,6 @@
+framework module Pods_Var_SwiftCleanArcitecture {
+  umbrella header "Pods-Var_SwiftCleanArcitecture-umbrella.h"
+
+  export *
+  module * { export * }
+}
